@@ -25,7 +25,7 @@ description: Personal home page and work showcase, featuring lots of cool data S
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Medium Blog: "http://whatever.medium.com
+ #   - Medium Blog: "http://whatever.medium.com
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
