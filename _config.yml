@@ -72,13 +72,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "nicklaus.winters@gmail.com"
 #  facebook: daattali
   github: nickwinters1
-  twitter: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: nicklauswinters
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -104,10 +104,10 @@ url-pretty: "nickwinters1.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "gtag('config', 'UA-137510619-1');"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-137510619-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -133,8 +133,8 @@ url-pretty: "nickwinters1.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  repository : nickwinters1/nickwinters1.github.io  # eg. "daattali/beautiful-jekyll"
+  branch     :  master # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
