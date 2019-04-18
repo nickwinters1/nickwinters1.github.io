@@ -5,7 +5,7 @@ subtitle: What is causing the rise in temperature
 comments: true
 ---
 
-![Climate Change](/img/Screen Shot 2019-04-18 at 4.25.10 PM.png){:class="img-responsive"}
+![Climate Change](/img/ClimateChange.png){:class="img-responsive"}
 
 
 **Summary**
