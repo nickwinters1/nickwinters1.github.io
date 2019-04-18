@@ -10,4 +10,4 @@ comments: true
 
 **Global Climate is the observed rise in the average temperature of the Earth’s climate system. In this blog, I will discuss the relationship between Temperature and Carbon, and how it is negatively impacting our planet**
 
-[**Medium link**](https://https://medium.com/@nicklauswinters/global-climate-change-81bf0e98478e)
+[**Medium link**](https://medium.com/@nicklauswinters/global-climate-change-81bf0e98478e)
